@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "pdf-viewer",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "An Electron application for reading pdf file",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "",
   "keywords": [
     "Electron",
     "quick",
